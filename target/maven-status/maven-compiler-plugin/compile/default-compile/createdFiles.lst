@@ -1,0 +1,4 @@
+com\ieseljust\Model\Videojuego.class
+com\ieseljust\videojuegoshibernate\VideojuegosHibernate.class
+com\ieseljust\ORM\HibernateUtil.class
+com\ieseljust\DAO\VideojuegoDAO.class
